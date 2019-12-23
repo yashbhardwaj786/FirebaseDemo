@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+
+    <array name="genres">
+        <item>Rock</item>
+        <item>Sufi</item>
+        <item>Pop</item>
+        <item>Classical</item>
+        <item>Retro</item>
+        <item>Folk</item>
+        <item>Remix</item>
+    </array>
+
+
+</resources>

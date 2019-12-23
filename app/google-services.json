@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "927580469973",
+    "firebase_url": "https://fir-rtdb-c535d.firebaseio.com",
+    "project_id": "fir-rtdb-c535d",
+    "storage_bucket": "fir-rtdb-c535d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927580469973:android:5bd015c695143207",
+        "android_client_info": {
+          "package_name": "com.yash.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927580469973-m7dki4c2prijbcaoa3dssj6egue5199q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yash.firebasedemo",
+            "certificate_hash": "2c918db425c16741d7f8c0a69f6da321894aed02"
+          }
+        },
+        {
+          "client_id": "927580469973-j6mdimiivtfddnocdqe9vnjae9vo26fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Jh3IZF2b1n5Qsfc2wwrO5uDSM1YiXI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927580469973-j6mdimiivtfddnocdqe9vnjae9vo26fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
